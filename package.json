@@ -1,5 +1,6 @@
 {
   "name": "portfolio",
+  "homepage": "http://kawisara-byn.com/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -35,7 +36,5 @@
   },
   "devDependencies": {
     "gh-pages": "^2.2.0",
-    "homepage": "http://kawisara-byn.com/"
-
   }
 }
